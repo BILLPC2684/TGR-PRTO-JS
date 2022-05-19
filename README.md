@@ -1,7 +1,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BILLPC2684)\
 ![alt text](http://koranva-forest.com/TheGameRazer/TGR-logo(8x).png)
 
-# We moved over to https://github.com/BILLPC2684/TGR-PRTO-PYGAME
+# We moved over to [TGR-PRTO-PYGAME](https://github.com/BILLPC2684/TGR-PRTO-PYGAME)
 
 # TGR-PRTO-JS
 TheGameRazer is a modern, retro 16-bit emulator(Fantasy Console) made in JavaScript\
