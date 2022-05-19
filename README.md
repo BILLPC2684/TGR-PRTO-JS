@@ -1,16 +1,18 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/BILLPC2684)\
 ![alt text](http://koranva-forest.com/TheGameRazer/TGR-logo(8x).png)
 
+# We moved over to https://github.com/BILLPC2684/TGR-PRTO-PYGAME
+
 # TGR-PRTO-JS
 TheGameRazer is a modern, retro 16-bit emulator(Fantasy Console) made in JavaScript\
 this is still in prototype stages...
 
 # Websites:
-Offical Website: http://Koranva-Forest.com \
-Web Build: http://Koranva-Forest.com/TheGameRazer/TGR.html \
-Web Assembler: http://Koranva-Forest.com/TheGameRazer/TGR-ASM.html \
-Offical ROMs: ~~http://Forums.Koranva-Forest.com/~~ the Forums isn't setted up yet! [404] \
-3rd Party ROMS: ~~http://Forums.Koranva-Forest.com/~~ the Forums isn't setted up yet! [404] \
+Offical Website: https://Koranva-Forest.com \
+Web Build: https://Koranva-Forest.com/TheGameRazer/TGR.html \
+Web Assembler: https://Koranva-Forest.com/TheGameRazer/TGR-ASM.html \
+Offical ROMs: ~~https://Koranva-Forest.com/TheGameRazer/forums~~ the Forums isn't setted up yet! [404] \
+3rd Party ROMS: ~~https://Koranva-Forest.com/TheGameRazer/forums~~ the Forums isn't setted up yet! [404] \
 
 # Is the current build runnable? (will update)
 ## For Build: v0.0.47d Alpha (goal: v0.0.76b Alpha )
@@ -51,7 +53,7 @@ Check out the WorkingInProgress Tutorials... (this should have everything you ne
   - 6. Assembler Flags: http://Koranva-Forest.com/TheGameRazer/Tutorials/6_AssembleFlags.html
   - 7. Interacting with Components: http://Koranva-Forest.com/TheGameRazer/Tutorials/7_Components.html
   - 8. Still Need Help?: http://Koranva-Forest.com/TheGameRazer/Tutorials/8_NeedHelp.html
- - Cheat Sheat: http://Koranva-Forest.com/TheGameRazer/Tutorials/00_CheatSheat.html
+ - Cheat Sheat: http://Koranva-Forest.com/TheGameRazer/Tutorials/CheatSheat.html
 
 # Want to join our discord server? it's free
 ## Invite link: https://discord.gg/PWAf8ek
